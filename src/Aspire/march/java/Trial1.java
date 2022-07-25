@@ -8,6 +8,7 @@ public class Trial1 {
 System.out.println("Hi I am Sukanya");
 int a=10;
 int b=20;
+		int c=30;
 int Multi=a*b;
 System.out.println(Multi);
 }
